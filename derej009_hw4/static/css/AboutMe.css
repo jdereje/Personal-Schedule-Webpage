@@ -1,0 +1,72 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.about-me-section{
+    width: 3800px;
+}
+.youtube-section {
+    width: 2000px; 
+    margin-bottom: 20px;
+}
+
+.instagram-section {
+    width: 1000px;
+    background:rgb(255, 255, 255); 
+    border: 10px;; 
+    border-radius:3px; 
+    box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); 
+    margin: 1px;
+    max-width:2000px;
+    min-width:326px; 
+    padding:0; 
+}
+
+.clock-section {
+    width: 48px;
+
+}
+
+#aboutme {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 4px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(94, 95, 126);
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
