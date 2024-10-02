@@ -1,0 +1,385 @@
+13:10:23, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+13:10:23, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+13:10:23, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+13:10:23, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+13:10:23, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+13:10:23, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:10:35, 200, {'Content-Type': 'text/html', 'Content-Length': 883, 'X-Content-Type-Options': 'nosniff'}, /static/html/stockQuotes.html
+13:10:35, 200, {'Content-Type': 'text/css', 'Content-Length': 777, 'X-Content-Type-Options': 'nosniff'}, /static/css/stockquote.css
+13:10:35, 200, {'Content-Type': 'application/javascript', 'Content-Length': 12625, 'X-Content-Type-Options': 'nosniff'}, /static/js/stocks.js
+13:10:35, 200, {'Content-Type': 'application/javascript', 'Content-Length': 1230, 'X-Content-Type-Options': 'nosniff'}, /static/js/stockquote.js
+13:10:36, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:10:36, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+13:10:36, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+13:10:36, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+13:10:36, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+13:10:37, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+13:10:37, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:10:41, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:10:41, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:10:44, 307, {'Location': 'https://www.youtube.com/results?search_query='}, /redirect?query=discrete+math&site=youtube
+13:10:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:10:54, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+13:10:54, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:10:56, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:12:57, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:12:57, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:12:58, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:12:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:12:58, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:12:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:13:50, 200, {'Content-Type': 'text/html', 'Content-Length': 224, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+13:13:50, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/derej009_hw4/static/img/coffman.png
+13:13:50, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:18, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:19, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:16:19, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:19, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:16:19, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:20, 200, {'Content-Type': 'text/html', 'Content-Length': 253, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+13:16:20, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+13:16:20, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:22, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:23, 200, {'Content-Type': 'text/html', 'Content-Length': 547, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman_N_OuttaSpace.html
+13:16:23, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+13:16:23, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/audio/OuttaSpace.mp3
+13:16:23, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:24, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:25, 200, {'Content-Type': 'text/html', 'Content-Length': 317, 'X-Content-Type-Options': 'nosniff'}, /static/html/OuttaSpace.html
+13:16:25, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/audio/OuttaSpace.mp3
+13:16:25, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:16:26, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:19:23, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:19:23, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:19:24, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:19:24, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+13:20:55, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+13:20:55, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:20:36, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:20:36, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:20:36, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:20:36, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:20:51, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:20:51, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:20:55, 307, {'Location': 'https://www.youtube.com/results?search_query='}, /redirect?query=discrete+math&site=youtube
+14:20:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:21:01, 307, {'Location': 'https://www.youtube.com/results?search_query='}, /redirect?query=discrete+math&site=google
+14:21:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:21:58, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:21:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:22:01, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:22:03, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:22:03, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:22:24, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:22:24, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:22:25, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:22:51, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:22:51, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:20, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:21, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:23:21, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:33, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:42, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=*&num2=2
+14:23:42, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:45, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:23:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:54, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:23:54, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:23:56, 200, {'Content-Type': 'text/plain', 'Content-Length': 5, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:23:56, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:24:01, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:24:04, 200, {'Content-Type': 'text/plain', 'Content-Length': 5, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=*&num2=2
+14:24:04, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:26:14, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:26:15, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:26:15, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:26:15, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:26:15, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:26:18, 200, {'Content-Type': 'text/plain', 'Content-Length': 34, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:26:18, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:28:47, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:28:47, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:28:47, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:28:47, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:28:47, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:28:49, 200, {'Content-Type': 'text/plain', 'Content-Length': 27, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:28:50, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:29:56, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:29:57, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:29:57, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:29:57, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:29:57, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:30:00, 200, {'Content-Type': 'text/plain', 'Content-Length': 27, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:30:00, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:36:22, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:36:25, 307, {'Location': 'https://www.youtube.com/results?search_query=math'}, /redirect?query=discrete+math&site=youtube
+14:36:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:36:47, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:36:47, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:36:50, 307, {'Location': 'https://www.google.com/search?q=math'}, /redirect?query=discrete+math&site=youtube
+14:46:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:46:45, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+14:46:45, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+14:46:45, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+14:46:45, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+14:46:46, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+14:46:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:46:46, 200, {'Content-Type': 'text/html', 'Content-Length': 883, 'X-Content-Type-Options': 'nosniff'}, /static/html/stockQuotes.html
+14:46:46, 200, {'Content-Type': 'text/css', 'Content-Length': 777, 'X-Content-Type-Options': 'nosniff'}, /static/css/stockquote.css
+14:46:46, 200, {'Content-Type': 'application/javascript', 'Content-Length': 12625, 'X-Content-Type-Options': 'nosniff'}, /static/js/stocks.js
+14:46:46, 200, {'Content-Type': 'application/javascript', 'Content-Length': 1230, 'X-Content-Type-Options': 'nosniff'}, /static/js/stockquote.js
+14:46:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:46:47, 200, {'Content-Type': 'text/html', 'Content-Length': 3527, 'X-Content-Type-Options': 'nosniff'}, /static/html/AboutMe.html
+14:46:47, 200, {'Content-Type': 'text/css', 'Content-Length': 1003, 'X-Content-Type-Options': 'nosniff'}, /static/css/AboutMe.css
+14:46:47, 200, {'Content-Type': 'application/javascript', 'Content-Length': 903, 'X-Content-Type-Options': 'nosniff'}, /static/js/AboutMeClock.js
+14:46:48, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:46:54, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+14:46:54, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:46:57, 307, {'Location': 'https://www.youtube.com/results?search_query='}, /redirect?query=SQL&site=youtube
+14:47:00, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:47:03, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+14:47:03, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:47:19, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:26:59, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:26:59, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:26:59, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:26:59, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:26:59, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:26:59, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:27:00, 200, {'Content-Type': 'text/html', 'Content-Length': 253, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+10:27:00, 200, {'Content-Type': 'text/html', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+10:27:00, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:27:01, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:27:05, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+10:27:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:29:23, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:33:40, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:33:40, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+10:33:40, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+10:33:40, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+10:33:40, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+10:33:40, 200, {'Content-Type': 'text/html', 'Content-Length': 3513, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyForm.html
+10:33:40, 200, {'Content-Type': 'text/css', 'Content-Length': 950, 'X-Content-Type-Options': 'nosniff'}, /static/css/MyForm.css
+10:33:41, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:33:41, 200, {'Content-Type': 'text/html', 'Content-Length': 3527, 'X-Content-Type-Options': 'nosniff'}, /static/html/AboutMe.html
+10:33:41, 200, {'Content-Type': 'text/css', 'Content-Length': 1003, 'X-Content-Type-Options': 'nosniff'}, /static/css/AboutMe.css
+10:33:41, 200, {'Content-Type': 'application/javascript', 'Content-Length': 903, 'X-Content-Type-Options': 'nosniff'}, /static/js/AboutMeClock.js
+10:33:42, 200, {'Content-Type': 'text/html', 'Content-Length': 883, 'X-Content-Type-Options': 'nosniff'}, /static/html/stockQuotes.html
+10:33:42, 200, {'Content-Type': 'text/css', 'Content-Length': 777, 'X-Content-Type-Options': 'nosniff'}, /static/css/stockquote.css
+10:33:42, 200, {'Content-Type': 'application/javascript', 'Content-Length': 12625, 'X-Content-Type-Options': 'nosniff'}, /static/js/stocks.js
+10:33:42, 200, {'Content-Type': 'application/javascript', 'Content-Length': 1230, 'X-Content-Type-Options': 'nosniff'}, /static/js/stockquote.js
+10:33:42, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:39:32, 200, {'Content-Type': 'text/html', 'Content-Length': 883, 'X-Content-Type-Options': 'nosniff'}, /static/html/stockQuotes.html
+10:39:32, 200, {'Content-Type': 'text/css', 'Content-Length': 777, 'X-Content-Type-Options': 'nosniff'}, /static/css/stockquote.css
+10:39:32, 200, {'Content-Type': 'application/javascript', 'Content-Length': 12625, 'X-Content-Type-Options': 'nosniff'}, /static/js/stocks.js
+10:39:32, 200, {'Content-Type': 'application/javascript', 'Content-Length': 1230, 'X-Content-Type-Options': 'nosniff'}, /static/js/stockquote.js
+10:39:32, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:39:33, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+10:39:33, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+10:39:33, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+10:39:33, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+10:39:34, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+10:39:34, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:39:40, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:39:40, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:39:45, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+10:39:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:39:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:39:49, 307, {'Location': 'https://www.youtube.com/results?search_query='}, /redirect?query=SQL&site=youtube
+10:39:51, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:42, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:41:42, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:43, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:41:43, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:43, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:41:43, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:43, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:41:43, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:46, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=%2B&num2=2
+10:41:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:51, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:53, 200, {'Content-Type': 'text/plain', 'Content-Length': 3, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=*&num2=2
+10:41:53, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:55, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:58, 200, {'Content-Type': 'text/plain', 'Content-Length': 4, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=2&operator=*&num2=10
+10:41:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:41:59, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:42:02, 307, {'Location': 'https://www.youtube.com/results?search_query=discrete math'}, /redirect?query=discrete+math&site=youtube
+10:42:06, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:42:08, 307, {'Location': 'https://www.google.com/search?q=discrete math'}, /redirect?query=discrete+math&site=google
+10:45:11, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:45:12, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:45:12, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:45:12, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:45:12, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:46:23, 200, {'Content-Type': 'text/plain', 'Content-Length': 4, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=5&operator=%2B&num2=6
+10:46:23, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:47:08, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:47:25, 307, {'Location': 'https://www.youtube.com/results?search_query=ab workout'}, /redirect?query=ab+workout&site=youtube
+10:47:33, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:49:00, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:49:00, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:49:10, 200, {'Content-Type': 'text/html', 'Content-Length': 253, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+10:49:10, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+10:49:10, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:49:12, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:50:40, 200, {'Content-Type': 'text/html', 'Content-Length': 1884, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:50:40, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:50:41, 200, {'Content-Type': 'text/html', 'Content-Length': 1884, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:50:41, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:50:42, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/derej009_hw4/static/html/Coffman.html
+10:50:42, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:50:44, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:50:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/derej009_hw4/static/html/Coffman_N_OuttaSpace.html
+10:50:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:50:46, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:51:04, 200, {'Content-Type': 'text/html', 'Content-Length': 1863, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:51:04, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:51:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/html/Coffman.html
+10:51:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:55:21, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/html/Coffman.html
+10:55:21, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:55:22, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:55:30, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:55:30, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:55:31, 200, {'Content-Type': 'text/html', 'Content-Length': 253, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+10:55:31, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+10:55:31, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:59:13, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:59:13, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:59:13, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:59:14, 200, {'Content-Type': 'text/html', 'Content-Length': 205, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+10:59:14, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /img/coffman.png
+10:59:14, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:59:44, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:59:44, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+10:59:44, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+10:59:45, 200, {'Content-Type': 'text/html', 'Content-Length': 225, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+10:59:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /derej009_hw4/static/img/coffman.png
+10:59:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:00:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:02:58, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+11:02:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:01, 307, {'Location': 'https://www.youtube.com/results?search_query=discrete math'}, /redirect?query=discrete+math&site=youtube
+11:03:03, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:04, 200, {'Content-Type': 'text/html', 'Content-Length': 225, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+11:03:04, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /derej009_hw4/static/img/coffman.png
+11:03:04, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:06, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:07, 200, {'Content-Type': 'text/html', 'Content-Length': 547, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman_N_OuttaSpace.html
+11:03:07, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+11:03:07, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/audio/OuttaSpace.mp3
+11:03:07, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:08, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:09, 200, {'Content-Type': 'text/html', 'Content-Length': 317, 'X-Content-Type-Options': 'nosniff'}, /static/html/OuttaSpace.html
+11:03:09, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/audio/OuttaSpace.mp3
+11:03:09, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:10, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:03:11, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+11:03:11, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+11:03:11, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+11:03:11, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+11:03:11, 200, {'Content-Type': 'image/png', 'Content-Length': 183623, 'X-Content-Type-Options': 'nosniff'}, /static/img/peik-hall.png
+11:03:12, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+11:03:12, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:13:24, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySever.html
+11:13:24, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:13:29, 200, {'Content-Type': 'text/html', 'Content-Length': 1809, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+11:13:30, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:14:49, 200, {'Content-Type': 'text/html', 'Content-Length': 1883, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+11:14:49, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:14:50, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/FileExplorer.html
+11:14:50, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:14:52, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:19:14, 200, {'Content-Type': 'text/html', 'Content-Length': 3513, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyForm.html
+11:19:14, 200, {'Content-Type': 'text/css', 'Content-Length': 950, 'X-Content-Type-Options': 'nosniff'}, /static/css/MyForm.css
+11:19:14, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:19:16, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+11:19:16, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+11:19:16, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+11:19:16, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+11:19:16, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+11:19:16, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+14:34:41, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+14:34:41, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+14:34:41, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+14:34:41, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+14:34:42, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+14:34:42, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:57:48, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+11:57:48, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+11:57:48, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+11:57:48, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+11:57:49, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+11:57:50, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:57:52, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html
+11:57:52, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:59:44, 200, {'Content-Type': 'text/html', 'Content-Length': 1886, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+11:59:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:59:48, 307, {'Location': 'https://www.youtube.com/results?search_query=discrete math'}, /redirect?query=discrete+math&site=youtube
+11:59:50, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:59:56, 200, {'Content-Type': 'text/plain', 'Content-Length': 5, 'X-Content-Type-Options': 'nosniff'}, /calculator?num1=10&operator=*&num2=10
+11:59:57, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:59:58, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+11:59:59, 200, {'Content-Type': 'text/html', 'Content-Length': 3513, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyForm.html
+11:59:59, 200, {'Content-Type': 'text/css', 'Content-Length': 950, 'X-Content-Type-Options': 'nosniff'}, /static/css/MyForm.css
+12:00:00, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:01, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:02, 200, {'Content-Type': 'text/html', 'Content-Length': 317, 'X-Content-Type-Options': 'nosniff'}, /static/html/OuttaSpace.html
+12:00:02, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/audio/OuttaSpace.mp3
+12:00:02, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:03, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:05, 200, {'Content-Type': 'text/html', 'Content-Length': 547, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman_N_OuttaSpace.html
+12:00:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+12:00:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/audio/OuttaSpace.mp3
+12:00:05, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:06, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:07, 200, {'Content-Type': 'text/html', 'Content-Length': 225, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+12:00:07, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /derej009_hw4/static/img/coffman.png
+12:00:07, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:08, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:15, 200, {'Content-Type': 'text/html', 'Content-Length': 8056, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+12:00:15, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+12:00:15, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+12:00:15, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+12:00:15, 200, {'Content-Type': 'image/png', 'Content-Length': 183623, 'X-Content-Type-Options': 'nosniff'}, /static/img/peik-hall.png
+12:00:15, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+12:00:15, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:00:21, 200, {'Content-Type': 'image/jpeg', 'Content-Length': 24490, 'X-Content-Type-Options': 'nosniff'}, /static/img/reccenter.jpeg
+12:00:26, 200, {'Content-Type': 'image/png', 'Content-Length': 29206, 'X-Content-Type-Options': 'nosniff'}, /static/img/zoom.png
+12:00:26, 200, {'Content-Type': 'image/jpeg', 'Content-Length': 56043, 'X-Content-Type-Options': 'nosniff'}, /static/img/keller-hall.jpg
+12:08:21, 200, {'Content-Type': 'text/html', 'Content-Length': 1886, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+12:08:21, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:08:25, 307, {'Location': 'https://www.google.com/search?q=march madness '}, /redirect?query=march+madness+&site=google
+12:10:23, 200, {'Content-Type': 'text/html', 'Content-Length': 1886, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+12:10:23, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:10:24, 200, {'Content-Type': 'text/html', 'Content-Length': 8100, 'X-Content-Type-Options': 'nosniff'}, /static/html/MySchedule.html
+12:10:24, 200, {'Content-Type': 'text/css', 'Content-Length': 1300, 'X-Content-Type-Options': 'nosniff'}, /static/css/MySchedule.css
+12:10:24, 200, {'Content-Type': 'application/javascript', 'Content-Length': 6410, 'X-Content-Type-Options': 'nosniff'}, /static/js/MySchedule.js
+12:10:24, 200, {'Content-Type': 'image/png', 'Content-Length': 52512, 'X-Content-Type-Options': 'nosniff'}, /static/img/gophers-mascot.png
+12:10:24, 200, {'Content-Type': 'image/jpeg', 'Content-Length': 24490, 'X-Content-Type-Options': 'nosniff'}, /static/img/reccenter.jpeg
+12:10:25, 200, {'Content-Type': 'image/png', 'Content-Length': 110981, 'X-Content-Type-Options': 'nosniff'}, /static/img/Goldy.png
+12:10:25, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:10:25, 200, {'Content-Type': 'image/png', 'Content-Length': 29206, 'X-Content-Type-Options': 'nosniff'}, /static/img/zoom.png
+12:10:25, 200, {'Content-Type': 'image/jpeg', 'Content-Length': 56043, 'X-Content-Type-Options': 'nosniff'}, /static/img/keller-hall.jpg
+12:10:25, 200, {'Content-Type': 'text/html', 'Content-Length': 1886, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+12:10:25, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:18:16, 200, {'Content-Type': 'text/html', 'Content-Length': 253, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+12:18:16, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+12:18:16, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:18:17, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:37:20, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /MyServer.html
+12:37:20, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:37:26, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /private.html
+12:37:26, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:37:34, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /static/html/private.html
+12:37:34, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:39:44, 200, {'Content-Type': 'text/html', 'Content-Length': 1886, 'X-Content-Type-Options': 'nosniff'}, /static/html/MyServer.html
+12:39:45, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:39:47, 307, {'Location': 'https://www.youtube.com/results?search_query=discrete math'}, /redirect?query=discrete+math&site=youtube
+12:39:49, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:39:51, 200, {'Content-Type': 'text/html', 'Content-Length': 253, 'X-Content-Type-Options': 'nosniff'}, /static/html/Coffman.html
+12:39:51, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Users/jonathan/Desktop/4131/derej009_hw4/static/img/coffman.png
+12:39:51, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico
+12:39:52, 200, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico

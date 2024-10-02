@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  width: 400px;
+  margin: 0 auto;
+  float: inline-start;
+  padding-left: 500px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input, select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #275ba3;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #909bb08b;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+
+nav {
+  background-color: rgb(94, 95, 126); 
+  color: #fff; 
+  padding: 20px; 
+  text-align: left; 
+}
+
+nav a {
+  text-decoration: none; 
+  color: #fff; 
+  font-weight: bold; 
+  margin: 0 15px; 
+}
+
+
+nav a:hover {
+  color: #ffcc00; 
+}
+
+#map {
+  position: fixed;
+  float: right;
+  padding-right: 25px;
+  height: 66vh;
+  width: 25%; /* Adjust width as needed */
+}
